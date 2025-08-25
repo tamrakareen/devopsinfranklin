@@ -1,0 +1,4 @@
+baseURL = 'https://devopsinfranklin.org/'
+languageCode = 'en-us'
+title = 'Devops In Franklin'
+theme = 'ananke'

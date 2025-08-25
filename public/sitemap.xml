@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://devopsinfranklin.org/</loc>
+    <lastmod>2025-08-25T08:23:05-05:00</lastmod>
+  </url><url>
+    <loc>https://devopsinfranklin.org/posts/</loc>
+    <lastmod>2025-08-25T08:23:05-05:00</lastmod>
+  </url><url>
+    <loc>https://devopsinfranklin.org/categories/</loc>
+  </url><url>
+    <loc>https://devopsinfranklin.org/tags/</loc>
+  </url>
+</urlset>
