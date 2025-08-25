@@ -38,3 +38,6 @@ theme = 'ananke'
 [markup]
   [markup.highlight]
     style = "monokai"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
