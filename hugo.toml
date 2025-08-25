@@ -1,4 +1,4 @@
-baseURL = 'https://tamrakareen.github.io/devopsinfranklin/'
+baseURL = 'https://tamrakareen.github.io/devopsinfranklin'
 languageCode = 'en-us'
 title = 'Devops In Franklin'
 theme = 'ananke'
