@@ -5,16 +5,14 @@ theme = 'ananke'
 
 # Parameters for the Ananke theme
 [params]
-  site_logo = "/images/tnbackground.png"  # Path to your logo in static/images/logo.png
   description = "Welcome to my personal website, where I talk about devops and data enginneering. You might also find sprinklings of my other interests- being a mom to three boys, swimming, learning guitar and french, parenting a child with autism, and living in Franklin, Tennessee."
-  favicon = "/images/favicon.ico"  # Optional: Path to favicon
-  background_image = "/images/background.jpg"  # Optional: Background image for header
-  custom_css = ["css/custom.css"]  # Optional: Custom CSS file for logo styling
+  favicon = "/images/favicon-16x16.png"
+  background_image = "/images/tnbackground.jpg"  # Optional: Background image for header
   show_reading_time = true  # Show reading time for posts
   recent_posts_number = 5   # Number of recent posts to display
   ananke_socials = [
-    {name = "twitter", url = "https://twitter.com/yourusername"},
-    {name = "github", url = "https://github.com/yourusername"},
+    {name = "linkedin", url = "https://linkedin.com/in/tamra-sherwood"},
+    {name = "github", url = "https://github.com/tamrakareen"},
   ]  # Social media links in the footer
 
 # Menu configuration (optional, for navigation)
